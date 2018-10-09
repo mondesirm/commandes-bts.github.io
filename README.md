@@ -1,4 +1,4 @@
-# Github
+﻿# Github
 
 ## ATTENTION
 
@@ -220,3 +220,4 @@ Il est possible de retirer un fichier qui avait été ajouté pour être « comm
 ```shell
 git reset HEAD -- <nom_fichier>
 ```
+oui
