@@ -1,4 +1,9 @@
 ﻿# Github
+### Liens recommandés
+[Accéder au site consacré à cette page](https://sunreiazzy.github.io/commandes-bts.github.io/)
+
+[Github Editor](https://github.com/SunReiAzzy/commandes-bts.github.io/edit/master/README.md)
+
 
 ## ATTENTION
 
@@ -220,4 +225,4 @@ Il est possible de retirer un fichier qui avait été ajouté pour être « comm
 ```shell
 git reset HEAD -- <nom_fichier>
 ```
-oui
+### FIN
