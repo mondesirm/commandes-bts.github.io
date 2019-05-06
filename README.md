@@ -17,7 +17,7 @@ git help pull
 git help branch
 ```
 
-## Exemples de configuration (pas du tout utiles pour l'instant)
+## Exemples de configuration
 
 ```shell
 # Nom
