@@ -1,4 +1,4 @@
-﻿# Github
+﻿# Commandes Git
 ### Liens recommandés
 [Accéder au site consacré à cette page](https://sunreiazzy.github.io/commandes-bts.github.io/)
 
