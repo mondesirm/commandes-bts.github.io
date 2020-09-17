@@ -1,8 +1,8 @@
 ﻿# Commandes Git
 ### Liens recommandés
-[Accéder au site consacré à cette page](https://sunreiazzy.github.io/commandes-bts.github.io/)
+[Accéder au site consacré à cette page](https://mondesirm.github.io/commandes-bts.github.io/)
 
-[Github Editor](https://github.com/SunReiAzzy/commandes-bts.github.io/edit/master/README.md)
+[Github Editor](https://github.com/mondesirm/commandes-bts.github.io/edit/master/README.md)
 
 
 ## ATTENTION
@@ -21,10 +21,10 @@ git help branch
 
 ```shell
 # Nom
-git config --global user.name "sunreiazzy"
+git config --global user.name "mondesirm"
 
 # Email
-git config --global user.email "sunreiazzy@gmail.com"
+git config --global user.email "mondesirm@gmail.com"
 
 # Outil Editeur
 git config --global core.editor subl
